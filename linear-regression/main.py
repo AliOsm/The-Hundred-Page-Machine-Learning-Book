@@ -28,4 +28,4 @@ if __name__ == '__main__':
     linear_regression = LinearRegression(X, y)
     losses = linear_regression.fit()
 
-    plot_loss(losses)
+    plot_losses(losses)
