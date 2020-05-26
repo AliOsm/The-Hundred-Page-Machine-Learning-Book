@@ -7,5 +7,6 @@ Simple&Basic Python implementations for machine learning algorithms introduced i
 1. `cd` into each algorithm's folder and have fun!
 
 ## Implemented Algorithms
-- [Linear Regression](linear-regression)
-- [Logistic Regression](logistic-regression)
+- [Linear Regression](linear-regression) - [Dataset: Boston](https://www.kaggle.com/c/boston-housing)
+- [Logistic Regression](logistic-regression) - [Dataset: Iris](https://archive.ics.uci.edu/ml/datasets/iris)
+- [Decision Tree](decision-tree) - [Dataset: Car Evaluation](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
